@@ -1,5 +1,7 @@
 # CMPG323-Overview-32263988
 
+Module 323 will have four repositories, one for each project (except the overview repository, which already has its own repository).
+
 ## Project 2-API Development:
 
 This will be the second repository created for the development of the APIs. Everything related to the APIs will be held in this repository.
@@ -30,4 +32,4 @@ Because every file I push to the remote repository is viewable and public, the .
 
 ## Storage of credentials and sensitive info
 
-Because the primary purpose of GitHub will be to host project (code) repositories, confidential and sensitive data will not be stored in the repository prior to branch commit. Another approach that could work is to disable forking by making the project private because forking enables individuals to copy the repository while not affecting the original project. Most of the time. gitignore will also be useful.
+Because the primary purpose of GitHub will be to host project (code) repositories, confidential and sensitive data will not be stored in the repository prior to branch commit. Another approach that could work is to disable forking by making the project private because forking enables individuals to copy the repository while not affecting the original project. Most of the time. gitignore will also be useful. The confidential files will be saved in different folders in different locations and will not be pushed to the main branch with other changes.
